@@ -13,3 +13,20 @@ cp - copia o arquivo
 mv - mover arquivo 
 pwd - mostrar o path atual 
 cat - mostra na tela
+
+Comandos Git
+
+git config --global http.proxy http://10.1.118.254:3128
+
+git init- inicia o REPOSITORIO LOCAL
+
+git status	
+
+git add - adiciona
+
+git commit -u 
+
+git diff
+
+git show 
+ 
