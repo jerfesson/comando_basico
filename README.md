@@ -28,4 +28,12 @@ git commit -m
 
 git diff
 
+git chekcout 
+
+
+
+git branc
+
 git show 
+
+git clone url_do_repositorio_externo_ou_local
