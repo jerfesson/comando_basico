@@ -24,9 +24,8 @@ git status
 
 git add - adiciona
 
-git commit -u 
+git commit -m
 
 git diff
 
 git show 
- 
